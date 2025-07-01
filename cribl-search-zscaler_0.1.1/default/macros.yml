@@ -1,0 +1,16 @@
+zscaler_fw_dataset:
+  lib: custom
+  replacement: 'dataset="zscaler_fw" '
+  createdBy: Kelsey Prior
+  modified: 1751379534744
+  created: 1751379492265
+  description: Dataset name for the ZScaler Firewall data
+  tags: zscaler
+zscaler_web_dataset:
+  lib: custom
+  description: Dataset name for the ZScaler Web data
+  replacement: 'dataset="zscaler_web" '
+  createdBy: Kelsey Prior
+  modified: 1751379539401
+  created: 1751379522377
+  tags: zscaler

@@ -6,7 +6,7 @@ This pack should be used to display data regarding ZScaler logs.
 
 ## Requirements Section
 
-For your datasets, make sure you match the following naming conventions or change the queries to adhere to what you named your datasets:
+For your datasets, make sure you match the following naming conventions or change the macros to adhere to what you named your datasets:
 * Web Logs: zscaler_web
 * Firewall Logs: zscaler_fw
 
@@ -16,13 +16,13 @@ For your datasets, make sure you match the following naming conventions or chang
 To use this Pack, follow these steps:
 
 1. Install the pack from the dispensary.
-2. Check dataset naming conventions and update the searches of each dashboard if needed. Hint: Use JSON mode to do this to make it quick and easier.
+2. Check dataset naming conventions and update the macros if needed. 
 3. View your data!
 
 
 ## Release Notes
 
-### Version 0.1 - 2025-06-30
+### Version 0.1.1 - 2025-07-01
 Initial Release
 
 ## Contact
