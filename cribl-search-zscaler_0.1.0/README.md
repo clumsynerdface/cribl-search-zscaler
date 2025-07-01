@@ -26,7 +26,7 @@ To use this Pack, follow these steps:
 Initial Release
 
 ## Contact
-To contact us please email <kprior@cribl.io> or reach out on Cribl Community Slack to @Kelsey Prior (cribl.io). If you have any suggestions for panels, please let us know!
+To contact us please email <kprior@cribl.io> or reach out on Cribl Community Slack to @Kelsey Prior (cribl.io) or on #packs. If you have any suggestions for panels, please let us know!
 
 
 ## License
