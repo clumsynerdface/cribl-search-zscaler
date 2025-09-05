@@ -22,6 +22,9 @@ To use this Pack, follow these steps:
 
 ## Release Notes
 
+### Version 0.9.0 - 2025-09-05
+Updated dashboards to leverage time picker.
+
 ### Version 0.1.1 - 2025-07-01
 Initial Release
 
